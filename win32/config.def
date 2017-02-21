@@ -1,0 +1,3 @@
+LIBRARY	"config"
+EXPORTS
+	create_reader_instance=create_reader_instance
